@@ -27,14 +27,14 @@
           <hr class="separator separator--line" />
 
           <div class="form-group text-center mt-5">
-              <a class="list-inline-item text-light" href="https://github.com/bastian-caceres" target="_blank">
-                <font-awesome-icon class="fa-3x" :icon="['fab', 'github']"/>
-                <p>GitHub</p> 
-              </a>   
               <a class="list-inline-item text-light" href="https://www.linkedin.com/in/bastiancaceresr/" target="_blank">
                 <font-awesome-icon class="fa-3x" :icon="['fab', 'linkedin']"/>
                 <p>Linkedin</p>
               </a>
+              <a class="list-inline-item text-light mx-1" href="https://github.com/bastian-caceres" target="_blank">
+                <font-awesome-icon class="fa-3x" :icon="['fab', 'github']"/>
+                <p>GitHub</p> 
+              </a>   
               <a class="list-inline-item text-light" href="https://www.facebook.com/miguelbastian.caceresreyes" target="_blank">
                 <font-awesome-icon class="fa-3x" :icon="['fab', 'facebook-square']"/>
                 <p>Facebook</p>
@@ -55,7 +55,7 @@ export default {
 
 <style>
 .contact{
-  height: 85vh;
+  height: 87vh;
   font-size: 30px;
 }
 </style>

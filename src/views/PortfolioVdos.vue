@@ -87,7 +87,7 @@
               <div class="ripple-cont"></div>
             </div>
             <div class="table">
-              <h4 class="card-caption">Proyecto pagina Barber Shop</h4>
+              <h4 class="card-caption">Proyecto Barber Shop</h4>
               <h6 class="category text-muted"> Desarrollado con:</h6>
               <h6>
                 <a><font-awesome-icon class="fa-2x mx-2" :icon="['fab', 'html5']"/></a>
@@ -110,7 +110,7 @@
               <div class="ripple-cont"></div>
             </div>
             <div class="table">
-              <h4 class="card-caption">Proyecto pagina Gigeo Art</h4>
+              <h4 class="card-caption">Proyecto Gigeo Art</h4>
               <h6 class="category text-muted"> Desarrollado con:</h6>
               <h6>
                 <a><font-awesome-icon class="fa-2x mx-2" :icon="['fab', 'html5']"/></a>
@@ -148,6 +148,7 @@
           </div>
         </div>
 
+        <!-- frikiStore -->
         <div class="image i7">
           <div class="card card-blog">
             <div class="card-image">
@@ -155,7 +156,7 @@
               <div class="ripple-cont"></div>
             </div>
             <div class="table">
-              <h4 class="card-caption">Nuevo Proyecto en construccion</h4>
+              <h4 class="card-caption">Protecto Friki Store</h4>
               <h6 class="category text-muted"> Desarrollado con:</h6>
               <h6>
                 <!-- <a><font-awesome-icon class="fa-2x mx-2" :icon="['fab', 'html5']"/></a>
@@ -170,6 +171,7 @@
           </div>  
         </div>
 
+        <!-- JP fitness GYM -->
         <div class="image i8">
             <div class="card card-blog">
             <div class="card-image">
@@ -177,7 +179,7 @@
               <div class="ripple-cont"></div>
             </div>
             <div class="table">
-              <h4 class="card-caption">Nuevo Proyecto en construccion</h4>
+              <h4 class="card-caption">Proyecto JP fitness GYM</h4>
               <h6 class="category text-muted"> Desarrollado con:</h6>
               <h6>
                 <!-- <a><font-awesome-icon class="fa-2x mx-2" :icon="['fab', 'html5']"/></a>
