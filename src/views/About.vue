@@ -1,5 +1,5 @@
 <template>
-  <section class="container sobremi text-center p-5">
+  <section class="container sobremi text-center mt-2">
     <div class="row"> 
       <!-- texto -->
       <div class="col-md-6">
@@ -32,7 +32,7 @@
       </div>
 
       <!-- skills -->
-      <div class="col-md-12">        
+      <div class="col-md-12 p-5">        
         <h3 class="titulo">Conocimientos</h3>
         <div class="row">
 

@@ -1,5 +1,5 @@
 <template>
-  <section class="contact container mt-5">
+  <section class="contact container mt-2">
     <h1 class="text-center">Información de contacto</h1>
     <form class="form-horizontal" role="form">
       <div class="row">
@@ -55,7 +55,7 @@ export default {
 
 <style>
 .contact{
-  height: 87vh;
+  height: 89vh;
   font-size: 30px;
 }
 </style>

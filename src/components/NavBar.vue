@@ -18,7 +18,7 @@
                         <router-link class="nav-link" :to="{name: 'Portfolio'}">Portfolio</router-link>
                     </li>
                     <li class="nav-item px-2">
-                        <router-link class="nav-link" :to="{name: 'PortfolioVdos'}">Portfolio v2</router-link>
+                        <router-link class="nav-link" :to="{name: 'PortfolioVdos'}">PortfolioV2</router-link>
                     </li>
                     <li class="nav-item px-2">
                         <router-link class="nav-link" :to="{name: 'Contact'}">Contact</router-link>
