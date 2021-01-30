@@ -9,19 +9,19 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav flex-row m-auto justify-content-center">
                     <li class="nav-item px-2">
-                        <router-link class="nav-link" :to="{name: 'Home'}">Home</router-link>
+                        <router-link class="nav-link" :to="{name: 'Home'}">Inicio</router-link>
                     </li>
                     <li class="nav-item px-2">
-                        <router-link class="nav-link" :to="{name: 'About'}">About</router-link>
+                        <router-link class="nav-link" :to="{name: 'About'}">Sobre mi</router-link>
                     </li>
                     <li class="nav-item px-2">
-                        <router-link class="nav-link" :to="{name: 'Portfolio'}">Portfolio</router-link>
+                        <router-link class="nav-link" :to="{name: 'Portfolio'}">Portafolio</router-link>
                     </li>
                     <li class="nav-item px-2">
-                        <router-link class="nav-link" :to="{name: 'PortfolioVdos'}">PortfolioV2</router-link>
+                        <router-link class="nav-link" :to="{name: 'PortfolioVdos'}">PortafolioV2</router-link>
                     </li>
                     <li class="nav-item px-2">
-                        <router-link class="nav-link" :to="{name: 'Contact'}">Contact</router-link>
+                        <router-link class="nav-link" :to="{name: 'Contact'}">Contacto</router-link>
                     </li>
                 </ul>
             </div>
