@@ -39,7 +39,7 @@
           <div class="col">
             <div class="container">                  
               <div class="skill">
-                <p><font-awesome-icon :icon="['fab', 'html5']"/> HTML5</p>
+                <p><font-awesome-icon :icon="['fab', 'html5']"/> HTML 5</p>
               </div>
               <div class="skill">
                 <p><font-awesome-icon :icon="['fab', 'bootstrap']"/> Bootstrap 4</p>
