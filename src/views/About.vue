@@ -40,15 +40,12 @@
             <div class="container">                  
               <div class="skill">
                 <p><font-awesome-icon :icon="['fab', 'html5']"/> HTML5</p>
-                <div class="skill-bar HTML5"></div>
               </div>
               <div class="skill">
                 <p><font-awesome-icon :icon="['fab', 'bootstrap']"/> Bootstrap 4</p>
-                <div class="skill-bar Bootstrap"></div>
               </div>
               <div class="skill">
                 <p><font-awesome-icon :icon="['fab', 'css3']"/> CSS 3</p>
-                <div class="skill-bar CSS"></div>
               </div>
             </div>
           </div>
@@ -56,16 +53,13 @@
           <div class="col">
             <div class="container">
               <div class="skill">
-                <p><font-awesome-icon :icon="['fab', 'vuejs']"/> Vue</p>
-                <div class="skill-bar Vue"></div>
+                <p><font-awesome-icon :icon="['fab', 'vuejs']"/> Vue 2</p>
               </div>
               <div class="skill">
                 <p><font-awesome-icon :icon="['fab', 'js']"/> JavaScript</p>
-                <div class="skill-bar JavaScript"></div>
               </div>                 
               <div class="skill">
                 <p><font-awesome-icon :icon="['fab', 'sass']"/> Sass</p>
-                <div class="skill-bar Sass"></div>
               </div>
             </div>
           </div>
@@ -91,10 +85,14 @@
 <style>
   /* fonts */
   @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-  /* css skills */
-  @import url('../assets/css/Skills.css');
 
   .sobremi{
     font-family: 'Courier Prime', monospace;
   }
+
+  .skill{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+}
 </style>
